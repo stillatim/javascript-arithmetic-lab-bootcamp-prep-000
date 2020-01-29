@@ -21,7 +21,7 @@ function add (a, b) {
     return (a -= 1)
   }
   
-  function makeInt (n) {
+  function makeInt(n) {
     return (parseInt(n, 10)) 
     
   }
